@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "query_text": {
+            "type": "string"
+        },
+        "cveid": {
+            "type": "string"
+        },
+        "description": {
+            "type": "string"
+        },
+        "cvss_score": {
+            "type": "string"
+        }
+    }
+}
